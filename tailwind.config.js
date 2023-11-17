@@ -17,9 +17,7 @@ export default {
         lgl: "1024px",
         xl: "1280px",
       },
-      width: {
-        20: "7.5rem",
-      },
+
       height: {},
       maxHeight: {},
       colors: {

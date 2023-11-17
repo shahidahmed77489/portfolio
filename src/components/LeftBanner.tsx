@@ -31,7 +31,7 @@ const LeftBanner = () => {
           user-friendly web applications, 
           collaborate effectively, and strive 
           for continuous improvement in 
-          web development
+          web development.
         </p>
       </div>
       <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between">
@@ -44,7 +44,7 @@ const LeftBanner = () => {
           </div>
         </div>
         <div>
-          <h2 className="text-base uppercase font-titleFont mb-4 w-20">
+          <h2 className="text-base uppercase font-titleFont mb-4 ">
             BEST SKILL ON
           </h2>
           <div className="flex gap-4">

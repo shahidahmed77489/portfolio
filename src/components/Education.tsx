@@ -19,20 +19,9 @@ const Education = () => {
             title="Bachelor Of Arts"
             subTitle="Vinoba Bhave University (2019 - 2022)"
             result="3.90/4"
-            des="The training provided by universities in order to prepare people to work in various sectors of the economy or areas of culture."
+            des="Graduation degree signifies completion of a higher education program, validating academic achievement and preparing individuals for professional opportunities."
           />
-          {/* <ResumeCard
-            title="10+2 High School"
-            subTitle="KBSS+2 High School   (2017 - 2019)"
-            result="4.75/5"
-            des="Higher education is tertiary education leading to award of an academic degree. Higher education, also called post-secondary education."
-          />
-          <ResumeCard
-             title="10+2 High School"
-            subTitle="KBSS+2 High School   (2017 - 2019)"
-            result="4.75/5"
-            des="Secondary education or post-primary education covers two phases on the International Standard Classification of Education scale."
-          /> */}
+         
         </div>
       </div>
       {/* part Two */}

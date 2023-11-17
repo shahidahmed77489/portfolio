@@ -15,8 +15,11 @@ const ContactLeft = () => {
           Forntend Developer
         </p>
         <p className="text-base text-gray-400 tracking-wide">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis
-          ipsam autem cumque, accusantium dicta odio.
+          I'm a React developer with one 
+          year of experience, specializing in 
+          JavaScript and modern front-end 
+          technologies. I create responsive, 
+          user-friendly web applications.
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Phone: <span className="text-lightText">+91 8809487711</span>
