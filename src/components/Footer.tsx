@@ -1,12 +1,12 @@
 import { FadeIn } from "./FadeIn";
-import fimage from "../assets/navimage.png"
+import fimage from "../assets/Untitled_design_35_-removebg-preview.png"
 import SocialLinkd from "./SocialLinkd";
 
 const Footer = () => {
   return (
     <FadeIn className="w-full py-20 h-auto border-b-[1px] border-b-black grid grid-cols-1 md:grid-cols-2 lgl:grid-cols-4 gap-8">
       <div className="w-full h-full flex flex-col gap-8">
-        <img className="w-32" src={fimage} alt="logo" />
+        <img className="w-full" src={fimage} alt="logo" />
         <div className="flex gap-4">
           <SocialLinkd/>
         </div>

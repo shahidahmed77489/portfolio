@@ -4,7 +4,7 @@ import { FiMenu } from "react-icons/fi";
 import { MdClose } from "react-icons/md";
 import { FaFacebookF, FaYoutube, FaLinkedinIn } from "react-icons/fa";
 import { logo } from "../assets";
-import  navprofileimage from "../assets/navimage.png"
+import navbarimage from "../assets/Untitled_design_35_-removebg-preview.png"
 
 
 import { navLinksdata } from "../constants";
@@ -14,7 +14,8 @@ const Navbar = () => {
   return (
     <div className="w-full h-24 sticky top-0 z-50 backdrop-blur-2xl transition-colors bg-bodyColor/70 mx-auto flex justify-between items-center font-titleFont border-b-[1px] border-b-gray-600 px-4">
       <div>
-        <img src={navprofileimage} alt="logo" className="w-1/5"/>
+        {/* <img src={navprofileimage} alt="logo" className="w-1/5"/> */}
+        <img src={navbarimage} alt="logo" className="rounded w-1/2 mt-2" />
       </div>
       <div>
         <ul className="hidden mdl:inline-flex items-center gap-6 lg:gap-10">
